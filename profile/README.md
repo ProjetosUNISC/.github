@@ -17,7 +17,7 @@ Cada projeto possui uma descrição, as tecnologias usadas, e o objetivo do trab
 ## Contato
 
 Se tiver dúvidas, sugestões ou quiser conversar sobre algum projeto, pode entrar em contato comigo através do e-mail:  
-**mateushaetinger37@gmail.com**
+**mateushaetinger@gmail.com**
 
 ---
 
